@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="action_delete_all_entries">Delete All Items</string>
+    <string name="editor_activity_title_new_item">Add an Item</string>
+    <string name="editor_activity_title_edit_item">Edit an Item</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_order">Order More</string>
+    <string name="sale_button">Sale</string>
+
+    <string name="category_name">Name</string>
+    <string name="category_price">Price</string>
+    <string name="category_quantity">Quantity</string>
+    <string name="category_supplier">Supplier</string>
+    <string name="category_image">Image</string>
+    <string name="hint_item_name">Name</string>
+    <string name="hint_item_price">Price</string>
+    <string name="hint_item_quantity">0</string>
+    <string name="hint_item_supplier">Supplier</string>
+    <string name="delete_quantity_error">Cannot have negative items.</string>
+    <string name="select_image">Select image...</string>
+    <string name="order_more">Order More</string>
+    <string name="order_more_subject">New order of </string>
+
+    <string name="editor_insert_item_successful">Item saved</string>
+    <string name="editor_insert_item_failed">Error with saving item</string>
+    <string name="editor_update_item_successful">Item saved</string>
+    <string name="editor_update_item_failed">Error with saving item</string>
+    <string name="editor_bad_type">Incorrect format for </string>
+
+    <string name="empty_view_title_text">It\'s a bit lonely here...</string>
+    <string name="empty_view_subtitle_text">Get started by adding a item</string>
+
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+
+    <string name="delete_dialog_msg">Delete this item?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="editor_delete_item_successful">Item deleted.</string>
+    <string name="editor_delete_item_failed">Error deleting item.</string>
+
+</resources>
